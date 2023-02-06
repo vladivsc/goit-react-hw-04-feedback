@@ -1,4 +1,4 @@
-import styles from '../feedback.module.css'
+import styles from '../feedback.module.scss'
 import PropTypes from 'prop-types';
 
 

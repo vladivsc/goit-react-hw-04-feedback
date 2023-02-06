@@ -1,4 +1,4 @@
-import styles from '../Notification/notification.module.css';
+import styles from '../Notification/notification.module.scss';
 import PropTypes from 'prop-types';
 
 const Notification = ({message})=> {

@@ -6,9 +6,9 @@
   cursor: pointer;
   box-shadow: 8px 7px 14px -8px rgba(118, 204, 149, 1);
   transition: all .2s ease-in-out;
-}
 
-.btn:hover {
-  background-color:aquamarine;
-  transform: scale(1.1);
+  &:hover {
+    background-color:aquamarine;
+    transform: scale(1.1);
+  }
 }
